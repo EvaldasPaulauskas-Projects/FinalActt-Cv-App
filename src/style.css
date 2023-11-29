@@ -1,0 +1,14 @@
+.homeBackground {
+    filter: brightness(90%);
+    background-image: url('/public/imgs/background-anim.png');
+    animation: scrollBackground 60s linear infinite;
+}
+
+@keyframes scrollBackground {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 100% 400%;
+    }
+}
