@@ -76,7 +76,7 @@ export const Projects = () =>{
                 username={"FinalActt"}
                 pageName={"Github"}
                 backgroundImageLink={"https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png"}
-                profileLink={"https://github.com/FinalActt?tab=repositories"}
+                profileLink={"https://github.com/FinalActt"}
                 />
                 </div>
 
