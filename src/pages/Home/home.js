@@ -13,7 +13,7 @@ export const Home = () => {
       <div className="w-full h-[38rem] bg-homeGif bg-center bg-cover  bg-no-repeat flex flex-col justify-center items-center gap-12 bg-black text-white text-center animate-fade-up
 ">
         <h1 className="text-6xl lg:text-5xl md:text-4xl sm:text-4xl xs:text-4xl font-rubik">
-          HI I'm Evaldas !
+          HI I'm Evaldas!
         </h1>
         <h2 className="text-2xl lg:text-xl md:text-lg sm:text-lg xs:text-lg font-silkscreen">
           I'm A Game Developer / Programmer
