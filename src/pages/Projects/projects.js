@@ -59,7 +59,7 @@ export const Projects = () =>{
                 onMouseLeave={() => setmouseOver(false)}
                 >
                 <MiniProfileCard
-                pfpLink={"https://img.itch.zone/aW1nLzE0MTQzNTQ1LnBuZw==/100x100%23/dzylH6.png"}
+                pfpLink={"https://avatars.githubusercontent.com/u/146879702?s=400&u=b378f1d127a5f776bc73ea9f7323b408f1f6d37b&v=4"}
                 username={"Final Act"}
                 pageName={"Itch.io"}
                 backgroundImageLink={"https://cdn2.steamgriddb.com/thumb/8a675ddedd719b13c12f2954886ab6b2.jpg"}
