@@ -16,7 +16,7 @@ export const Home = () => {
           HI I'm Evaldas !
         </h1>
         <h2 className="text-2xl lg:text-xl md:text-lg sm:text-lg xs:text-lg font-silkscreen">
-          I'm A Game Developer / Programmer
+          Full Stack Developer / A Unity 2D/3D Game Developer Hobbyist
         </h2>
 
         <Link to="/projects" onClick={() => handleLinkClick("/projects")}>
