@@ -49,7 +49,7 @@ export const Projects = () =>{
             </div>
 
             <div className="w-full text-center text-3xl font-bold font-rubik uppercase pt-2 py-2 pb-24 ">
-                <h1> All my games / projects can be found here </h1>
+                <h1> Not all my games / projects can be found here (Need To Be Updated) </h1>
             </div>
 
             <div className='w-full flex justify-center items-center flex-col gap-24 sm:flex-row z-40 pb-[15rem] md:pb-4 '>
